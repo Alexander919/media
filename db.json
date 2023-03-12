@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Michelle Crooks",
+      "id": 2
+    },
+    {
+      "name": "Kerry Raynor Sr.",
+      "id": 3
+    },
+    {
+      "name": "Cindy Marvin PhD",
+      "id": 4
+    },
+    {
+      "name": "Vernon Little II",
+      "id": 5
+    },
+    {
+      "name": "Angelica Konopelski",
+      "id": 6
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
