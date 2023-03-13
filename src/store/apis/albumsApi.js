@@ -1,6 +1,6 @@
 import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 
-const albumsApi = createApi({
+const albumsApi = createApi({ //slice is created automatically
     reducerPath: "albums",
     baseQuery: fetchBaseQuery({
         baseUrl: "http://localhost:3005"
@@ -22,5 +22,5 @@ const albumsApi = createApi({
     }
 });
 
-export const { useFetchAlbumsQuery } = albumsApi;
+export const { useFetchAlbumsQuery } = albumsApi; //created from the name(fetchAlbums)
 export { albumsApi };

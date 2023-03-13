@@ -6,7 +6,7 @@ import { albumsApi } from "./apis/albumsApi"
 export const store = configureStore({
     reducer: {
         users: usersReducer,
-        [albumsApi.reducerPath]: albumsApi.reducer
+        [albumsApi.reducerPath]: albumsApi.reducer //get name(albums) dynamically
     },
     middleware: (getDefaultMiddleware) => {
         return getDefaultMiddleware()
