@@ -22,8 +22,51 @@
     }
   ],
   "albums": [
-    { "userId": 14, "id": 10, "title": "Hiking Trip"},
-    { "userId": 14, "id": 9, "title": "Hello World"}
-],
+    {
+      "userId": 14,
+      "id": 10,
+      "title": "Hiking Trip"
+    },
+    {
+      "userId": 14,
+      "id": 9,
+      "title": "Hello World"
+    },
+    {
+      "userId": 14,
+      "title": "Luxurious Fresh Chips",
+      "id": 11
+    },
+    {
+      "userId": 14,
+      "title": "Bespoke Bronze Pants",
+      "id": 12
+    },
+    {
+      "userId": 10,
+      "title": "Recycled Frozen Tuna",
+      "id": 13
+    },
+    {
+      "userId": 14,
+      "title": "Tasty Steel Cheese",
+      "id": 14
+    },
+    {
+      "userId": 10,
+      "title": "Unbranded Soft Chair",
+      "id": 15
+    },
+    {
+      "userId": 10,
+      "title": "Recycled Frozen Computer",
+      "id": 16
+    },
+    {
+      "userId": 10,
+      "title": "Rustic Bronze Soap",
+      "id": 17
+    }
+  ],
   "photos": []
 }
