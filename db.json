@@ -43,30 +43,61 @@
       "id": 12
     },
     {
-      "userId": 10,
-      "title": "Recycled Frozen Tuna",
-      "id": 13
-    },
-    {
       "userId": 14,
       "title": "Tasty Steel Cheese",
       "id": 14
     },
     {
       "userId": 10,
-      "title": "Unbranded Soft Chair",
-      "id": 15
+      "title": "Handcrafted Bronze Towels",
+      "id": 20
+    },
+    {
+      "userId": 15,
+      "title": "Unbranded Bronze Sausages",
+      "id": 22
     },
     {
       "userId": 10,
-      "title": "Recycled Frozen Computer",
-      "id": 16
+      "title": "Modern Rubber Table",
+      "id": 23
     },
     {
       "userId": 10,
-      "title": "Rustic Bronze Soap",
-      "id": 17
+      "title": "Fantastic Concrete Sausages",
+      "id": 24
+    },
+    {
+      "userId": 11,
+      "title": "Gorgeous Soft Keyboard",
+      "id": 25
+    },
+    {
+      "userId": 17,
+      "title": "Practical Soft Hat",
+      "id": 27
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 27,
+      "url": "",
+      "id": 1
+    },
+    {
+      "albumId": 20,
+      "url": "https://loremflickr.com/150/150/abstract?lock=12999",
+      "id": 3
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=46759",
+      "id": 4
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=92323",
+      "id": 6
+    }
+  ]
 }
